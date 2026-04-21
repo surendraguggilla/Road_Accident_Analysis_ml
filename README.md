@@ -1,23 +1,31 @@
-# Crop Recommendation System 🌱
+# 🚦 Road Accident Data Analysis
 
- ## Overview
-Predicts the best crop based on soil and environmental conditions.
+## 📌 Overview
 
+This project analyzes road accident data using Python to identify trends, patterns, and insights through data visualization, statistical analysis, and a simple machine learning model.
 
-## 📁 Dataset
-Kaggle Crop Recommendation Dataset
+## 🛠️ Tools Used
 
-## Features
-- EDA and visualization
-- Model training (Random Forest, Logistic Regression)
-- Feature importance
-- Web-based prediction system
+* Python
+* Pandas, NumPy
+* Matplotlib, Seaborn
+* Scikit-learn, SciPy
 
-## Tech Stack
-Python, Pandas, NumPy, Scikit-learn, Flask
+## 📊 Features
 
-## How to Run
-1. Clone repo
-2. pip install -r requirements.txt
-3. python app.py
-4. Open http://127.0.0.1:5000
+* Data Cleaning & Preprocessing
+* Exploratory Data Analysis (EDA)
+* Multiple Visualizations
+* T-test & Correlation Analysis
+* Linear Regression Model
+
+## ▶️ How to Run
+
+1. Place dataset in the same folder
+2. Install libraries:
+3. Run:
+
+   ```
+   python road_accident_analysis.py
+   ```
+
