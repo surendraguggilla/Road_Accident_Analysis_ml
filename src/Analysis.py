@@ -12,7 +12,7 @@ from sklearn.linear_model import LinearRegression
 
 ## ============  LOAD DATA  ===========================
 
-df = pd.read_excel("D:\\crop_recommendation\\project\\Data\\road_accidents_states_wise.xlsx")
+df = pd.read_excel("D:\\Road_Accident_analysis\\Data\\road_accidents_states_wise.xlsx")
 print("DATASET LOADED SUCCESSFULLY")
 print("HEAD: \n", df.head(), "\n")
 
