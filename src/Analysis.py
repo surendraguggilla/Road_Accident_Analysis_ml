@@ -96,7 +96,7 @@ t, p = ttest_ind(g1, g2)
 
 print("\nT-Test Results:")
 print("p-value:", p)
-
+hi
 if p < 0.05:
     print("There is a significant difference in accidents before and after 2019.")
 else:
