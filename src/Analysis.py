@@ -11,7 +11,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 
 ## ============  LOAD DATA  ===========================
-
+print()
 df = pd.read_excel("D:\\Road_Accident_analysis\\Data\\road_accidents_states_wise.xlsx")
 print("DATASET LOADED SUCCESSFULLY")
 print("HEAD: \n", df.head(), "\n")
